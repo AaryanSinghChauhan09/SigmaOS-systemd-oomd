@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-oomd"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-oomd component - init_system"
+
+[lib]
+name = "systemd_oomd"
+path = "src/lib.rs"
