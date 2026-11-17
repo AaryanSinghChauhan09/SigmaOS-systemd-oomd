@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-oomd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-oomd component"
+description = "systemd oomd"
 upstream = []
 
 [contract]
